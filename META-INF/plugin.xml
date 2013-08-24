@@ -2,15 +2,18 @@
   <id>com.github.dgt79.plugin.eclipseactions</id>
   <name>Eclipse Actions</name>
   <version>1.0</version>
-  <vendor>Dgt79</vendor>
+  <vendor url="https://github.com/dgt79/EclipseActions">Dgt79</vendor>
 
   <description><![CDATA[
       Plugin that offers some actions as Eclipse IDE does.
       ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <small>most HTML tags may be used</small>
+      This plugin provides some actions as Eclipse IDE does.
+
+      DuplicateLinesEx/CopyLinesEx has equivalent behaviour as Eclipse's DuplicateLines/CopyLines.
+      Behaviour is similar to IntelliJ's Duplicate Line or Block action.
+
       ]]>
   </change-notes>
 
